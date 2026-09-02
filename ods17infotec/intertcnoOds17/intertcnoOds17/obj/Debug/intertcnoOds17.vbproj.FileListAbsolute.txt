@@ -1,0 +1,14 @@
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\bin\Debug\fomEProblemas.mdb
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\bin\Debug\intertcnoOds17.exe.config
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\bin\Debug\intertcnoOds17.exe
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\bin\Debug\intertcnoOds17.pdb
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\bin\Debug\intertcnoOds17.xml
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.vbproj.AssemblyReference.cache
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.Form1.resources
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.Form2.resources
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.Resources.resources
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.vbproj.GenerateResource.cache
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.vbproj.CoreCompileInputs.cache
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.exe
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.xml
+C:\Users\JPI_ALUNO\Desktop\ods17infotec\intertcnoOds17\intertcnoOds17\obj\Debug\intertcnoOds17.pdb
